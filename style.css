@@ -1,0 +1,44 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.navbar{
+    color: black;
+    font-size: 1.1em;
+    margin-left: 60px;
+    margin-top: 30px;
+
+}	
+.left img {
+    width: 500px;
+   
+}
+.con{
+    margin-top: 90px !important;
+ display: flex;  
+ justify-content: space-between;; 
+ width: 70%;
+ margin: auto;
+ gap: 40px;
+}
+.right h1{
+
+ font-size: 3.1em;
+}
+.right p{
+    margin-top: 20px ;
+    font-size: 2.1em;
+    width: 55%;
+    margin-bottom: 20px;
+    line-height: 1.7;
+    letter-spacing: 2px;
+   }
+   .right button{
+       background-color: #FF6D5B;
+        padding: 26px 33px;
+        border : 0;
+        cursor: pointer;
+        font-size: 17px;
+        COLOR: white;
+
+   }
